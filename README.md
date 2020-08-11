@@ -2,7 +2,7 @@
 
 I'm an Site Reliability Engineer at MariaDB. Previously, I was at JP Morgan Chase as an SRE.
 
-- 💬 Ask me about: Go, Elixir, Prometheus
+- 💬 Ask me about: Go, Elixir, NixOS, Prometheus
 
 <!--
 **glenn-m/glenn-m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
