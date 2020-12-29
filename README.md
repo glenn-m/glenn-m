@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm an Site Reliability Engineer at MariaDB. Previously, I was at JP Morgan Chase as an SRE.
+I'm an Site Reliability Engineer at DigitalOcean. Previously, I was at MariaDB Corporation as an SRE.
 
 - 💬 Ask me about: Go, Elixir, NixOS, Prometheus
 
