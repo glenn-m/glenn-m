@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm an Site Reliability Engineer at DigitalOcean. Previously, I was at MariaDB Corporation as an SRE.
+I'm a Site Reliability Engineer at DigitalOcean. Previously, I was at MariaDB Corporation as a SRE.
 
 - 💬 Ask me about: Go, Elixir, NixOS, Prometheus
 
